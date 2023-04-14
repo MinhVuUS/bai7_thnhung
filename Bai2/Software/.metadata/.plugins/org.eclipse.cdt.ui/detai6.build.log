@@ -1,0 +1,9 @@
+15:55:20 **** Incremental Build of configuration Nios II for project detai6 ****
+make all 
+Info: Building ../detai6_bsp/
+E:/quatus/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../detai6_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_detai6 build complete]
+
+15:55:21 Build Finished (took 968ms)
+

@@ -1,0 +1,9 @@
+22:00:30 **** Incremental Build of configuration Nios II for project Bai7 ****
+make all 
+Info: Building ../Bai7_bsp/
+D:/quartus_main/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Bai7_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_Bai7 build complete]
+
+22:00:32 Build Finished (took 1s.83ms)
+

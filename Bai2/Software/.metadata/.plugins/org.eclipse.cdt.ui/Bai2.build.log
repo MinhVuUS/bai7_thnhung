@@ -1,0 +1,9 @@
+08:59:09 **** Incremental Build of configuration Nios II for project Bai2 ****
+make all 
+Info: Building ../Bai2_bsp/
+E:/quatus/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Bai2_bsp/
+[BSP build complete]
+[Bai2 build complete]
+
+08:59:10 Build Finished (took 924ms)
+
